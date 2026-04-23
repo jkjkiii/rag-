@@ -1,0 +1,227 @@
+[
+  {
+    "type": "human",
+    "data": {
+      "content": "我体重180斤，尺码推荐",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "human",
+      "name": null,
+      "id": null
+    }
+  },
+  {
+    "type": "ai",
+    "data": {
+      "content": "根据您提供的体重180斤，结合尺码推荐标准：\n\n- 若身高在 **180–190cm** 范围内，建议选择 **4XL**；\n- 若身高 **190cm以上**，则建议选择 **5XL**。\n\n请根据您的实际身高确认最终尺码。",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "ai",
+      "name": null,
+      "id": null,
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "usage_metadata": null
+    }
+  },
+  {
+    "type": "human",
+    "data": {
+      "content": "我体重190斤，尺码推荐",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "human",
+      "name": null,
+      "id": null
+    }
+  },
+  {
+    "type": "ai",
+    "data": {
+      "content": "根据您提供的体重190斤，结合尺码推荐标准：\n\n- 若身高在 **180–190cm** 范围内，建议选择 **4XL**（对应体重180–210斤）；\n- 若身高 **190cm以上**，则建议选择 **5XL**（对应体重210斤+）。\n\n由于您的体重为190斤，尚未达到5XL的最低体重建议（210斤+），**若身高不超过190cm，推荐尺码为4XL**。请结合您的实际身高确认。",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "ai",
+      "name": null,
+      "id": null,
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "usage_metadata": null
+    }
+  },
+  {
+    "type": "human",
+    "data": {
+      "content": "春天穿什么颜色衣服",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "human",
+      "name": null,
+      "id": null
+    }
+  },
+  {
+    "type": "ai",
+    "data": {
+      "content": "春天适合穿**清新柔和的颜色**，以呼应万物复苏的季节氛围。推荐颜色包括：\n\n- **樱花粉**\n- **薄荷绿**\n- **浅蓝色**\n\n这些色调明亮但不刺眼，能营造轻盈、温柔的春日造型。根据场合也可适当搭配中性色（如米色、浅灰）作为过渡，保持整体协调。",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "ai",
+      "name": null,
+      "id": null,
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "usage_metadata": null
+    }
+  },
+  {
+    "type": "human",
+    "data": {
+      "content": "春天穿什么颜色衣服",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "human",
+      "name": null,
+      "id": null
+    }
+  },
+  {
+    "type": "ai",
+    "data": {
+      "content": "春天适合穿**清新柔和的颜色**，契合季节的轻盈与生机。推荐如下：\n\n- **樱花粉**  \n- **薄荷绿**  \n- **浅蓝色**\n\n这些颜色明亮柔和，能提亮肤色、营造清爽感。日常搭配可加入米色、燕麦色等中性色，保持整体协调又不失春日氛围。",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "ai",
+      "name": null,
+      "id": null,
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "usage_metadata": null
+    }
+  },
+  {
+    "type": "human",
+    "data": {
+      "content": "春天穿什么颜色衣服",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "human",
+      "name": null,
+      "id": null
+    }
+  },
+  {
+    "type": "ai",
+    "data": {
+      "content": "春天适合穿**清新柔和的颜色**，以呼应万物复苏、生机盎然的季节氛围。推荐颜色包括：\n\n- **樱花粉**  \n- **薄荷绿**  \n- **浅蓝色**\n\n此外，也可搭配**米色、燕麦色、浅灰**等中性色作为过渡或基础色，使整体造型更协调、温柔又不失活力。避免过于沉闷的深色或高饱和荧光色，以免与春日气质不符。",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "ai",
+      "name": null,
+      "id": null,
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "usage_metadata": null
+    }
+  },
+  {
+    "type": "human",
+    "data": {
+      "content": "春天穿什么颜色衣服？我的体重是180斤",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "human",
+      "name": null,
+      "id": null
+    }
+  },
+  {
+    "type": "ai",
+    "data": {
+      "content": "根据您的体重180斤（属于丰满体型）和春季穿搭需求，建议在**遵循春季色彩趋势**的同时，兼顾**修饰身形**的效果：\n\n### 推荐颜色：\n- **浅蓝色、薄荷绿、樱花粉**：这些是春季经典清新色，柔和提亮，适合季节氛围。\n- **米色、燕麦色、浅灰**：中性浅色可增加柔和感，避免沉闷，同时比纯白更显瘦。\n\n### 搭配建议：\n- **优先选择哑光面料**，避免亮面材质膨胀视觉。\n- **采用“上浅下深”或“同色系搭配”**：例如浅蓝上衣 + 深灰裤子，既符合春日清新感，又能显高显瘦。\n- **小面积使用亮色点缀**：如用樱花粉内搭+米色外套，避免大面积浅色或亮色造成臃肿感。\n\n这样既能享受春天的轻盈色彩，又兼顾对体型的修饰效果。",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "ai",
+      "name": null,
+      "id": null,
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "usage_metadata": null
+    }
+  },
+  {
+    "type": "human",
+    "data": {
+      "content": "春天穿什么颜色衣服？我的体重是180斤",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "human",
+      "name": null,
+      "id": null
+    }
+  },
+  {
+    "type": "ai",
+    "data": {
+      "content": "结合春季色彩趋势和您体重180斤（属于丰满体型）的特点，推荐如下：\n\n### 适合春天的颜色：\n- **薄荷绿、浅蓝色、樱花粉**：清新柔和，符合春季氛围，能提亮气色。\n- **米色、燕麦色、浅灰**：比纯白更柔和，视觉上更显瘦，适合作为主色。\n\n### 显瘦搭配技巧：\n- **避免大面积使用高饱和或荧光色**，易显膨胀。\n- **优选哑光面料**，减少反光带来的体积感。\n- **采用“上浅下深”或同色系穿搭**：例如浅蓝衬衫 + 深灰阔腿裤，拉长比例又显瘦。\n- **可用小面积亮色点缀**（如丝巾、内搭），增添春意而不显臃肿。\n\n这样既应景春季，又能优化身形视觉效果。",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "ai",
+      "name": null,
+      "id": null,
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "usage_metadata": null
+    }
+  },
+  {
+    "type": "human",
+    "data": {
+      "content": "春天穿什么颜色衣服？我的体重是180斤",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "human",
+      "name": null,
+      "id": null
+    }
+  },
+  {
+    "type": "ai",
+    "data": {
+      "content": "根据您的体重180斤（属于丰满体型）并结合春季穿搭原则，推荐如下：\n\n### 春季适合的颜色：\n- **柔和浅色系**：如**薄荷绿、浅蓝色、樱花粉**——清新应景，提亮肤色；\n- **中性浅色**：如**米色、燕麦色、浅灰**——比纯白更显瘦，柔和不膨胀。\n\n### 体型修饰建议：\n- **避免大面积使用高饱和亮色或荧光色**（如明黄、电光粉），易显臃肿；\n- **优先选择哑光面料**，减少反光带来的膨胀感；\n- **采用“上浅下深”搭配**（如浅蓝上衣 + 深灰裤子）或**同色系穿搭**，视觉显高显瘦；\n- **可用小面积亮色点缀**（如内搭、丝巾），增添春日活力而不影响整体比例。\n\n这样既能融入春天的轻盈氛围，又能优化身形视觉效果。",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "ai",
+      "name": null,
+      "id": null,
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "usage_metadata": null
+    }
+  },
+  {
+    "type": "human",
+    "data": {
+      "content": "春天穿什么颜色衣服？我的体重是180斤",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "human",
+      "name": null,
+      "id": null
+    }
+  },
+  {
+    "type": "ai",
+    "data": {
+      "content": "根据您的体重180斤（属于丰满体型）并结合春季穿搭原则，推荐如下：\n\n### ✅ 春季适合的颜色：\n- **薄荷绿、浅蓝色、樱花粉**：清新柔和，符合春天氛围，能提亮气色；\n- **米色、燕麦色、浅灰**：比纯白更显瘦，视觉柔和，适合作为主色调。\n\n### ✅ 修饰体型的搭配技巧：\n- **避免大面积高饱和或荧光色**（如亮黄、电光粉），容易显臃肿；\n- **选择哑光面料**，减少反光带来的膨胀感；\n- **采用“上浅下深”**（如浅蓝衬衫 + 深灰裤子）或**同色系穿搭**，拉长身形线条；\n- **可用小面积亮色点缀**（如丝巾、内搭、鞋子），增添春日活力又不显胖。\n\n这样既应景春季的轻盈感，又能优化视觉比例，穿得清爽又显瘦。",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "ai",
+      "name": null,
+      "id": null,
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "usage_metadata": null
+    }
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "type": "human",
+    "data": {
+      "content": "我重180斤，，尺码推荐",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "human",
+      "name": null,
+      "id": null
+    }
+  },
+  {
+    "type": "ai",
+    "data": {
+      "content": "根据您提供的体重 **180斤**，结合尺码推荐标准：\n\n- 若您的身高在 **180–190cm** 范围内，建议选择 **4XL**；\n- 若您的身高 **超过190cm**，则建议选择 **5XL**。\n\n请根据您的实际身高确认最终尺码。",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "ai",
+      "name": null,
+      "id": null,
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "usage_metadata": null
+    }
+  },
+  {
+    "type": "human",
+    "data": {
+      "content": "我重180斤，尺码推荐",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "human",
+      "name": null,
+      "id": null
+    }
+  },
+  {
+    "type": "ai",
+    "data": {
+      "content": "根据您提供的体重 **180斤**，参考尺码推荐标准：\n\n- 若身高在 **180–190cm**，建议尺码：**4XL**  \n- 若身高 **190cm以上**，建议尺码：**5XL**\n\n请结合您的实际身高选择对应尺码。",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "ai",
+      "name": null,
+      "id": null,
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "usage_metadata": null
+    }
+  },
+  {
+    "type": "human",
+    "data": {
+      "content": "体重170斤，尺码推荐",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "human",
+      "name": null,
+      "id": null
+    }
+  },
+  {
+    "type": "ai",
+    "data": {
+      "content": "根据您提供的体重 **170斤**，参考尺码推荐标准：\n\n- 若身高在 **178–185cm**，建议尺码：**3XL**  \n- 若身高在 **180–190cm**，也可考虑 **4XL**（尤其若体型偏壮或偏好宽松）\n\n请结合您的实际身高和体型选择最合适的尺码。",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "ai",
+      "name": null,
+      "id": null,
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "usage_metadata": null
+    }
+  },
+  {
+    "type": "human",
+    "data": {
+      "content": "夏天衣服颜色推荐",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "human",
+      "name": null,
+      "id": null
+    }
+  },
+  {
+    "type": "ai",
+    "data": {
+      "content": "根据季节与服装颜色选择原则，**夏季推荐以下颜色**：\n\n- **冷色调和浅色系**：如白色、天蓝色、浅绿色、浅灰、雾霾蓝等，视觉清爽，有助降温。\n- **避免深色系**：如黑色、深灰、藏蓝等，因吸热强、易显沉闷。\n\n此外，可结合肤色微调：\n- **冷白皮**：可驾驭薄荷绿、宝蓝等亮色；\n- **黄皮**：优选浅米色、燕麦色，避免冷调荧光色；\n- **黑皮**：适合湖蓝、明黄等高饱和亮色。\n\n整体以**清新、明亮、低吸热**为夏季选色核心。",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "ai",
+      "name": null,
+      "id": null,
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "usage_metadata": null
+    }
+  },
+  {
+    "type": "human",
+    "data": {
+      "content": "夏天休闲场合穿衣推荐",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "human",
+      "name": null,
+      "id": null
+    }
+  },
+  {
+    "type": "ai",
+    "data": {
+      "content": "根据您提供的资料，**夏天休闲场合穿衣推荐**如下：\n\n### 1. **颜色选择**\n- **主推清爽浅色与冷色调**：如白色、天蓝色、浅绿色、雾霾蓝、浅米色等，视觉清凉，符合夏季氛围。\n- **可适当使用高饱和度亮色或撞色搭配**：如黄+白、蓝+白，清新活泼。\n- **避免深色系**（如黑色、深灰）：吸热且显沉闷。\n\n### 2. **款式与图案**\n- 适合**条纹、格纹**等基础图案，轻松有型。\n- 选择**宽松透气**的版型，提升舒适度。\n\n### 3. **结合肤色优化**\n- **黄皮/暖黄皮**：优选浅米色、燕麦色；避免冷调荧光色（如荧光绿、冷粉）。\n- **冷白皮**：可尝试薄荷绿、宝蓝等亮色，更显透亮。\n- **黑皮**：适合湖蓝、明黄等高饱和亮色，突出健康光泽。\n\n### 4. **配饰建议**\n- 可用**对比色配饰**提亮造型（如白色T恤+红色帽子/项链）。\n- **中性色配饰**（黑白灰、金属色）百搭安全。\n\n> 总结：**浅色为主 + 撞色点缀 + 透气款式 + 肤色适配**，打造清爽又时髦的夏日休闲穿搭。",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "ai",
+      "name": null,
+      "id": null,
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "usage_metadata": null
+    }
+  }
+]
